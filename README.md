@@ -38,6 +38,6 @@ yarn add px2rem-loader --dev
 
 - 在build文件夹下的utils.js添加
 
-  ![image-20200925141735588](https://pan.baidu.com/s/1NNMz7g7wfNeKNXWVJiSdvQ)
+ 
 
    
